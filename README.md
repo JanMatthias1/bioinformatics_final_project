@@ -1,1 +1,1 @@
-# bioinformatics_final_project
+# Role of glucocorticoids in the hippocampus
